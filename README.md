@@ -22,16 +22,17 @@
     
 
     ```git clone https://github.com/Tasank/Docker_PgAdmin_test.git```
-    cd your-repository/first_docker_project
+   
+    ```cd your-repository/first_docker_project```
    
 
-2. Запустите Docker Compose:
+3. Запустите Docker Compose:
     
 
     ```docker-compose up --build```
    
 
-3. Сервер PostgreSQL будет доступен на порту `5432`.
+4. Сервер PostgreSQL будет доступен на порту `5432`.
 
 
 
