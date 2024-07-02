@@ -20,15 +20,15 @@
 
 1. Клонируйте репозиторий:
     
-sh
-    git clone https://github.com/Tasank/Docker_PgAdmin_test.git
+
+    ```git clone https://github.com/Tasank/Docker_PgAdmin_test.git```
     cd your-repository/first_docker_project
    
 
 2. Запустите Docker Compose:
     
-sh
-    docker-compose up --build
+
+    ```docker-compose up --build```
    
 
 3. Сервер PostgreSQL будет доступен на порту `5432`.
@@ -44,4 +44,4 @@ sh
 - **Database**: `db_auth`
 
 ### Выход
-Ctrl + C в терминале или docker-compose down
+Ctrl + C в терминале или ```docker-compose down```
